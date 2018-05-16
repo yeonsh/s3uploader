@@ -12,8 +12,6 @@ Usage: ./s3uploader [options] bucket_name filename
     	Access Key ID
   -no-cache
     	Set no-cache to Cache Control
-  -no-invalidation
-    	Do not invalidate the file from CloudFront
   -region string
     	Region (default "us-east-1")
   -secret string
