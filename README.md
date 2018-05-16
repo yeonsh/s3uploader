@@ -1,6 +1,6 @@
 # S3 uploader
 
-This program upload file(s) to S3.
+This program uploads file(s) to S3.
 
 ```
 $ ./s3uploader
